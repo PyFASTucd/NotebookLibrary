@@ -11,5 +11,4 @@ Each tutorial or topic is in a Jupyter Notebook you can explore. The "mybinder" 
 
 Overview of Python3: Indentation, Variables & Operators
 
-[Notebook 1 - Python Basics](https://hub.gke2.mybinder.org/user/pyfastucd-notebooklibrary-ssn6cm7w/notebooks/nb1_PythonBasics.ipynb)
-
+[Notebook 1 - Python Basics](https://mybinder.org/v2/gh/PyFASTucd/NotebookLibrary.git/HEAD?filepath=%2Fnb1_PythonBasics.ipynb)
