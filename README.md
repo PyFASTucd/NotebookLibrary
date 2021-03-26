@@ -17,4 +17,4 @@ Overview of Python3: Indentation, Variables & Operators
 
 Playing with geodataframes
 
-[Notebook for Geopandas](https://mybinder.org/v2/gh/PyFASTucd/NotebookLibrary.git/HEAD?filepath=%2FExploreGeoPandas.ipynb)
+[Notebook for Geopandas](https://mybinder.org/v2/gh/PyFASTucd/NotebookLibrary.git/HEAD?filepath=%2Fnb_Geopandas.ipynb)
