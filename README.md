@@ -12,3 +12,9 @@ Each tutorial or topic is in a Jupyter Notebook you can explore. The "mybinder" 
 Overview of Python3: Indentation, Variables & Operators
 
 [Notebook 1 - Python Basics](https://mybinder.org/v2/gh/PyFASTucd/NotebookLibrary.git/HEAD?filepath=%2Fnb1_PythonBasics.ipynb)
+
+### Geopandas
+
+Playing with geodataframes
+
+[Notebook for Geopandas](https://mybinder.org/v2/gh/PyFASTucd/NotebookLibrary.git/HEAD?filepath=%2FExploreGeoPandas.ipynb)
